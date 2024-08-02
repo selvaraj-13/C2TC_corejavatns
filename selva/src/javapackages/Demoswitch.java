@@ -11,9 +11,9 @@ Scanner selvaa=new Scanner(System.in);
 		System.out.println("calculator "
 				+ "enter any option");
 		System.out.println("1.add"
-				+"2.mul"
-			+"3.div"
-				+"4.sub");
+				+" 2.mul"
+			+" 3.div"
+				+" 4.sub");
 		String viyathi=selvaa.nextLine();
 		switch(viyathi) {
 		case "1":
