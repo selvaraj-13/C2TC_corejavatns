@@ -21,7 +21,7 @@ public class Eligibility {
 			Eligibility.Eligibil(age);
 		} catch (Exception e) {
 			// TODO: handle exception
-			System.out.println(eleg.getmess());
+			System.out.println(eleg.getClass());
 		}
 		// TODO Auto-generated method stub
 
